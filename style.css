@@ -1,0 +1,14 @@
+.container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    justify-content: center;
+    padding: 10px;
+    grid-gap: 10px;
+    text-align: justify;
+}
+img{
+    height: 300px;
+}
+body{
+    background-color: black
+}
